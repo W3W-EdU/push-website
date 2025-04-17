@@ -28,7 +28,7 @@
     }
   },
   "dependencies": {
-    "@docusaurus/core": "3.0.1",
+    "@docusaurus/core": "3.7.0",
     "@docusaurus/cssnano-preset": "3.0.1",
     "@docusaurus/plugin-client-redirects": "3.0.1",
     "@docusaurus/plugin-content-blog": "3.0.1",
